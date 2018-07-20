@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://agriasgg.github.io/blog/sitemap.xml
