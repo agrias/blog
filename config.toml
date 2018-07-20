@@ -1,4 +1,4 @@
-baseURL = "http://192.168.1.190:1313/"
+baseURL = "https://agriasgg.github.io/blog/"
 title = "Jane - A super concise theme for Hugo"
 enableRobotsTXT = true
 enableEmoji = true
